@@ -86,3 +86,5 @@ And Nginx error log is just filled with:
 ```
 
 The server should be completely unresponsive after just 100 threads.
+### Special thanks
+[@Gpericol](https://github.com/gpericol)
